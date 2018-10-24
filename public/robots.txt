@@ -1,0 +1,5 @@
+useragent: *
+Allow /
+
+
+Sitemap: https://www.theassignmentmakers.com/sitemap.xml
